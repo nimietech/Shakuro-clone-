@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 98 34" width="98" height="34">
+	<title>logo-aax-svg</title>
+	<style>
+		.s0 { fill: #666666 } 
+		.s1 { fill: #000000 } 
+		.s2 { fill: #0188ff } 
+	</style>
+	<g id="Group">
+		<path id="Vector" class="s0" d="m29.8 6.1h-1.6-1l-18.3 21.2h5.2l14.1-16.2v16.2h4.2v-21.1l0.1-0.1z"/>
+		<path id="Vector_2" class="s1" d="m29.8 6.1h-1.6-1l-18.3 21.2h5.2l14.1-16.2v16.2h4.2v-21.1l0.1-0.1z"/>
+		<path id="Vector_3" class="s0" d="m61.8 6.1h-2.6-1.7-1l-18.3 21.2h5.3l14-16.2v16.2h4.3v-21.1z"/>
+		<path id="Vector_4" class="s1" d="m61.8 6.1h-2.6-1.7-1l-18.3 21.2h5.3l14-16.2v16.2h4.3v-21.1z"/>
+		<g id="Group_2">
+			<path id="Vector_5" class="s0" d="m72.5 6.1h-5l17.3 21.2h4.9z"/>
+			<path id="Vector_6" class="s1" d="m72.5 6.1h-5l17.3 21.2h4.9z"/>
+		</g>
+		<path id="Vector_7" fill-rule="evenodd" class="s2" d="m84.8 6.1h4.9l-17.2 21.2h-5z"/>
+	</g>
+</svg>
